@@ -1,0 +1,45 @@
+{
+  "author": "Diogenes369",
+  "version": "1.0.0",
+  "category": "marketing-growth",
+  "tags": {
+    "he": [
+      "רילים",
+      "קריינות",
+      "תסריט",
+      "אינסטגרם",
+      "טיקטוק",
+      "עברית"
+    ],
+    "en": [
+      "reels",
+      "narration",
+      "script",
+      "instagram",
+      "tiktok",
+      "hebrew"
+    ]
+  },
+  "display_name": {
+    "he": "תסריט לריל בעברית",
+    "en": "Hebrew Reel Script"
+  },
+  "display_description": {
+    "he": "קריינות לריל טיפ של עד דקה: פתיח קצר, טיפ אחד, צעדים שמחזיקים על המסך וסיום שמזמין לשמור.",
+    "en": "Narration, on-screen cards and caption for a short Hebrew tip reel (up to 60 seconds): a three-second hook, one tip, readable pacing, step cards with real links and a spoken call to action."
+  },
+  "supported_agents": [
+    "claude-code",
+    "claude-ai",
+    "claude-desktop",
+    "cursor",
+    "github-copilot",
+    "windsurf",
+    "opencode",
+    "codex",
+    "openclaw",
+    "antigravity",
+    "gemini-cli",
+    "chatgpt"
+  ]
+}

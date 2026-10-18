@@ -1,0 +1,45 @@
+{
+  "author": "Diogenes369",
+  "version": "1.0.1",
+  "category": "education",
+  "tags": {
+    "he": [
+      "פרומפט",
+      "בקשה",
+      "יסודות",
+      "הזיות",
+      "תבנית",
+      "עברית"
+    ],
+    "en": [
+      "prompt",
+      "request",
+      "basics",
+      "hallucinations",
+      "template",
+      "hebrew"
+    ]
+  },
+  "display_name": {
+    "he": "בקשה שעובדת מהניסיון הראשון",
+    "en": "Prompt Brief (Hebrew)"
+  },
+  "display_description": {
+    "he": "שישה מרכיבים לכל בקשה: תפקיד, משימה, רקע, גבולות, צורת התשובה ודוגמה. ומה עושים כשהתשובה לא נכונה.",
+    "en": "Helps a Hebrew speaker write a request that works on the first try: role, task, background, limits, answer shape and one example, plus how to spot a made-up answer."
+  },
+  "supported_agents": [
+    "claude-code",
+    "claude-ai",
+    "claude-desktop",
+    "cursor",
+    "github-copilot",
+    "windsurf",
+    "opencode",
+    "codex",
+    "openclaw",
+    "antigravity",
+    "gemini-cli",
+    "chatgpt"
+  ]
+}

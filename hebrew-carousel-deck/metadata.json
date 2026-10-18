@@ -1,0 +1,45 @@
+{
+  "author": "Diogenes369",
+  "version": "1.0.0",
+  "category": "marketing-growth",
+  "tags": {
+    "he": [
+      "קרוסלה",
+      "שקופיות",
+      "לינקדאין",
+      "אינסטגרם",
+      "תוכן",
+      "עברית"
+    ],
+    "en": [
+      "carousel",
+      "slides",
+      "linkedin",
+      "instagram",
+      "content",
+      "hebrew"
+    ]
+  },
+  "display_name": {
+    "he": "קרוסלת ידע בעברית",
+    "en": "Hebrew Carousel Deck"
+  },
+  "display_description": {
+    "he": "מכתבה, פוסט או הסבר לקרוסלה של שקופיות: כותרת בשקף הראשון, רעיון אחד בכל שקף, וסגירה שמסכמת.",
+    "en": "Turns an article, a post or a short explanation into the text and structure of a Hebrew Instagram or LinkedIn carousel: a headline-only cover, one idea per slide, a closing summary and a caption that carries the link."
+  },
+  "supported_agents": [
+    "claude-code",
+    "claude-ai",
+    "claude-desktop",
+    "cursor",
+    "github-copilot",
+    "windsurf",
+    "opencode",
+    "codex",
+    "openclaw",
+    "antigravity",
+    "gemini-cli",
+    "chatgpt"
+  ]
+}

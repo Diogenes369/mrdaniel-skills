@@ -1,0 +1,45 @@
+{
+  "author": "Diogenes369",
+  "version": "1.0.1",
+  "category": "developer-tools",
+  "tags": {
+    "he": [
+      "אוטומציה",
+      "מיפוי",
+      "סוכנים",
+      "n8n",
+      "Make",
+      "עברית"
+    ],
+    "en": [
+      "automation",
+      "mapping",
+      "agents",
+      "n8n",
+      "Make",
+      "hebrew"
+    ]
+  },
+  "display_name": {
+    "he": "מיפוי משימה לפני אוטומציה",
+    "en": "Automation Task Map (Hebrew)"
+  },
+  "display_description": {
+    "he": "מפרקים משימה שחוזרת לחמישה חלקים, נותנים לה ציון, ומחליטים מה הופכים לסוכן קודם.",
+    "en": "Maps a repeating task before automating it: trigger, inputs, decision points, actions and output, a score, which layer to automate first, and a human kept in the loop."
+  },
+  "supported_agents": [
+    "claude-code",
+    "claude-ai",
+    "claude-desktop",
+    "cursor",
+    "github-copilot",
+    "windsurf",
+    "opencode",
+    "codex",
+    "openclaw",
+    "antigravity",
+    "gemini-cli",
+    "chatgpt"
+  ]
+}

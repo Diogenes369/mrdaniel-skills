@@ -1,0 +1,32 @@
+# Signed release: every v* tag becomes a GitHub release whose skill files carry a Sigstore
+# build-provenance attestation (what Skills IL's "signed_release" check and `gh attestation verify`
+# look for). Actions are pinned to commit SHAs; the comment names the tag each SHA was taken from.
+name: Release
+
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write
+  id-token: write
+  attestations: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Create the GitHub release for this tag
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" --title "$GITHUB_REF_NAME" --generate-notes --verify-tag
+
+      - name: Attest the skill files
+        uses: actions/attest-build-provenance@4d101475d8b20a2381f78447822ac1eab6504dd8 # v4.2.2
+        with:
+          subject-path: |
+            **/SKILL.md
+            **/SKILL_HE.md
+            **/metadata.json

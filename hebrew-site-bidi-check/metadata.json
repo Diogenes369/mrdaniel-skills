@@ -1,0 +1,45 @@
+{
+  "author": "Diogenes369",
+  "version": "1.0.1",
+  "category": "localization",
+  "tags": {
+    "he": [
+      "RTL",
+      "עברית",
+      "דו-כיווניות",
+      "בדיקות",
+      "CSS",
+      "נגישות"
+    ],
+    "en": [
+      "rtl",
+      "hebrew",
+      "bidi",
+      "testing",
+      "css",
+      "accessibility"
+    ]
+  },
+  "display_name": {
+    "he": "בדיקת עברית ודו־כיווניות באתר",
+    "en": "Hebrew Site Bidi Check"
+  },
+  "display_description": {
+    "he": "מספרים הפוכים, שעות שמתהפכות, נקודה שקופצת לצד הלא נכון: רשימת הבדיקה והתיקונים.",
+    "en": "Finds and fixes the right-to-left and bidirectional text bugs that break real Hebrew websites: reversed numbers and times, units glued to digits, punctuation on the wrong end, with a fix order and a test to keep."
+  },
+  "supported_agents": [
+    "claude-code",
+    "claude-ai",
+    "claude-desktop",
+    "cursor",
+    "github-copilot",
+    "windsurf",
+    "opencode",
+    "codex",
+    "openclaw",
+    "antigravity",
+    "gemini-cli",
+    "chatgpt"
+  ]
+}

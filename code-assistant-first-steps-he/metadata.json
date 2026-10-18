@@ -1,0 +1,45 @@
+{
+  "author": "Diogenes369",
+  "version": "1.0.1",
+  "category": "developer-tools",
+  "tags": {
+    "he": [
+      "Claude Code",
+      "התקנה",
+      "טרמינל",
+      "מתחילים",
+      "סוכן-קוד",
+      "עברית"
+    ],
+    "en": [
+      "Claude Code",
+      "install",
+      "terminal",
+      "beginners",
+      "coding-agent",
+      "hebrew"
+    ]
+  },
+  "display_name": {
+    "he": "Claude Code מאפס",
+    "en": "Claude Code First Steps (Hebrew)"
+  },
+  "display_description": {
+    "he": "מההתקנה ועד המשימה הראשונה: עוזר שקורא את הקבצים שלכם, מציע שינוי ומבקש אישור.",
+    "en": "Walks a Hebrew speaker from zero to a first working Claude Code session: what to prepare, the install from the official page, the first session, CLAUDE.md and five working habits."
+  },
+  "supported_agents": [
+    "claude-code",
+    "claude-ai",
+    "claude-desktop",
+    "cursor",
+    "github-copilot",
+    "windsurf",
+    "opencode",
+    "codex",
+    "openclaw",
+    "antigravity",
+    "gemini-cli",
+    "chatgpt"
+  ]
+}

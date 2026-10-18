@@ -1,0 +1,45 @@
+{
+  "author": "Diogenes369",
+  "version": "1.0.0",
+  "category": "marketing-growth",
+  "tags": {
+    "he": [
+      "כיתוב",
+      "אינסטגרם",
+      "האשטגים",
+      "טיקטוק",
+      "לינקדאין",
+      "עברית"
+    ],
+    "en": [
+      "caption",
+      "instagram",
+      "hashtags",
+      "tiktok",
+      "linkedin",
+      "hebrew"
+    ]
+  },
+  "display_name": {
+    "he": "כיתוב לריל ולפוסט",
+    "en": "Hebrew Caption Writer"
+  },
+  "display_description": {
+    "he": "כיתוב שלא חוזר על הקריינות: מה הצופה חוסך, למה לשמור, ואיך מסיימים בקריאה אמיתית לפעולה.",
+    "en": "Instagram, TikTok or LinkedIn captions for a Hebrew reel or post that never repeat the narration: the added value in other words, a real call to action, up to five hashtags and two expanded versions."
+  },
+  "supported_agents": [
+    "claude-code",
+    "claude-ai",
+    "claude-desktop",
+    "cursor",
+    "github-copilot",
+    "windsurf",
+    "opencode",
+    "codex",
+    "openclaw",
+    "antigravity",
+    "gemini-cli",
+    "chatgpt"
+  ]
+}

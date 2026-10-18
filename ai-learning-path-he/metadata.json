@@ -1,0 +1,45 @@
+{
+  "author": "Diogenes369",
+  "version": "1.0.0",
+  "category": "education",
+  "tags": {
+    "he": [
+      "למידה",
+      "מתחילים",
+      "מסלול",
+      "בינה-מלאכותית",
+      "מורה",
+      "עברית"
+    ],
+    "en": [
+      "learning",
+      "beginners",
+      "path",
+      "ai",
+      "tutor",
+      "hebrew"
+    ]
+  },
+  "display_name": {
+    "he": "מסלול לומדים AI",
+    "en": "AI Learning Path Tutor (Hebrew)"
+  },
+  "display_description": {
+    "he": "העוזר נהיה מורה פרטי שמלווה אתכם במסלול של האתר, צעד אחד בכל פעם.",
+    "en": "Turns the assistant into a patient Hebrew tutor that walks a beginner along a five-step AI learning path, one step and one exercise at a time."
+  },
+  "supported_agents": [
+    "claude-code",
+    "claude-ai",
+    "claude-desktop",
+    "cursor",
+    "github-copilot",
+    "windsurf",
+    "opencode",
+    "codex",
+    "openclaw",
+    "antigravity",
+    "gemini-cli",
+    "chatgpt"
+  ]
+}

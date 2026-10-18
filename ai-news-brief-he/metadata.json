@@ -1,0 +1,45 @@
+{
+  "author": "Diogenes369",
+  "version": "1.0.0",
+  "category": "education",
+  "tags": {
+    "he": [
+      "חדשות",
+      "תקציר",
+      "בינה-מלאכותית",
+      "למידה",
+      "פוסט",
+      "עברית"
+    ],
+    "en": [
+      "news",
+      "summary",
+      "ai",
+      "learning",
+      "post",
+      "hebrew"
+    ]
+  },
+  "display_name": {
+    "he": "תקציר חדשות AI ללומדים",
+    "en": "AI News Brief for Learners (Hebrew)"
+  },
+  "display_description": {
+    "he": "מכתבה באנגלית או בעברית לתקציר קצר: שלוש נקודות שונות, מה זה מלמד, ובלי מספר שלא במקור.",
+    "en": "Turns an AI news article into a short Hebrew brief for people learning AI: the full article, three distinct points, what it teaches a learner, and no number that is not in the source."
+  },
+  "supported_agents": [
+    "claude-code",
+    "claude-ai",
+    "claude-desktop",
+    "cursor",
+    "github-copilot",
+    "windsurf",
+    "opencode",
+    "codex",
+    "openclaw",
+    "antigravity",
+    "gemini-cli",
+    "chatgpt"
+  ]
+}

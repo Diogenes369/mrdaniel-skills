@@ -1,0 +1,45 @@
+{
+  "author": "Diogenes369",
+  "version": "1.0.1",
+  "category": "developer-tools",
+  "tags": {
+    "he": [
+      "סוכנים",
+      "אפיון",
+      "אוטומציה",
+      "דרישות",
+      "עסקים",
+      "עברית"
+    ],
+    "en": [
+      "agents",
+      "spec",
+      "automation",
+      "requirements",
+      "business",
+      "hebrew"
+    ]
+  },
+  "display_name": {
+    "he": "אפיון סוכן AI במילים פשוטות",
+    "en": "AI Agent Brief Interview (Hebrew)"
+  },
+  "display_description": {
+    "he": "שיחה קצרה שמסתיימת במסמך אפיון: מה הסוכן עושה, ממה הוא מתחיל, מה הוא מחזיר ואיפה הוא עוצר לאישור.",
+    "en": "A short Hebrew interview that ends in a written brief for an AI agent or automation: the task, the trigger, inputs, outputs, what it may never do alone and where it stops for approval."
+  },
+  "supported_agents": [
+    "claude-code",
+    "claude-ai",
+    "claude-desktop",
+    "cursor",
+    "github-copilot",
+    "windsurf",
+    "opencode",
+    "codex",
+    "openclaw",
+    "antigravity",
+    "gemini-cli",
+    "chatgpt"
+  ]
+}
